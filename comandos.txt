@@ -2,3 +2,6 @@ git init = inicia um repositório local.
 git branch = mostra todas as branch.
 git branch -b = criar uma nova branch.
 git checkout = muda para uma outra branch. 
+git add = adciona um arquivo para o git gerenciar. 
+git commit = envia para o repositório local.
+git push = envia para o repositório remoto.
