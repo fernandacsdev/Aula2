@@ -1,0 +1,2 @@
+Controle de mudança, consiste em gerenciar e autorizar mudanças no software. Possíveis mudanças serão propostas,  avaliadas e revisadas e caso aprovada, implementadas no código.
+Temos como vantagens a conformidade e planejamento da eficácia, estas são algumas das diversas vantagens do controle de mudanças. Que contribuem para qualidade da vida do software.
