@@ -1,0 +1,4 @@
+git init = inicia um repositório local.
+git branch = mostra todas as branch.
+git branch -b = criar uma nova branch.
+git checkout = muda para uma outra branch. 
